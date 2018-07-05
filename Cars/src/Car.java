@@ -10,5 +10,6 @@ public class Car {
         System.out.println("Samochód 2:");
         System.out.println("Marka: " + car2.brand + ", model: " + car2.model +
                 ", rocznik: " + car2.year + ", pojemność: " + car2.capacity);
+        System.out.println();
     }
 }
